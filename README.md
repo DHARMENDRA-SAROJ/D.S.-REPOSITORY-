@@ -1,4 +1,4 @@
 # D.S.-REPOSITORY-
 This is my first repository.
 <br>
-Author-dharmendra saroj
+Author-dharmendra saroj (kit student)
